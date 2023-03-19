@@ -1,0 +1,14 @@
+{
+  "name": "@yifansh412/meteorite",
+  "main": "5cfdf2562e50853a@2911.js",
+  "version": "2911.0.0",
+  "homepage": "https://observablehq.com/@yifansh412/meteorite",
+  "author": {
+    "name": "Yifan Shen",
+    "url": "https://observablehq.com/@yifansh412"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
