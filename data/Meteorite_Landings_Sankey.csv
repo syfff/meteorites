@@ -1,0 +1,49 @@
+"","source","target","value"
+"1","Before 1850","Fell",151
+"2","Before 1850","Found",63
+"3","1850 to 1900","Fell",240
+"4","1850 to 1900","Found",268
+"5","1900 to 1950","Fell",334
+"6","1900 to 1950","Found",616
+"7","After 1950","Fell",339
+"8","After 1950","Found",29897
+"9","Fell","Africa",133
+"10","Fell","Asia",295
+"11","Fell","Australia",17
+"12","Fell","Europe",368
+"13","Fell","North America",160
+"14","Fell","South America",69
+"15","Found","Africa",2688
+"16","Found","Antarctica",22086
+"17","Found","Asia",3125
+"18","Found","Australia",623
+"19","Found","Europe",189
+"20","Found","North America",1543
+"21","Found","South America",564
+"22","Africa","1g or less",23
+"23","Africa","1g to 10g",150
+"24","Africa","10g to 100g",599
+"25","Africa","greater than 100g",2049
+"26","Antarctica","1g or less",1414
+"27","Antarctica","1g to 10g",8206
+"28","Antarctica","10g to 100g",8967
+"29","Antarctica","greater than 100g",3499
+"30","Asia","1g or less",21
+"31","Asia","1g to 10g",129
+"32","Asia","10g to 100g",823
+"33","Asia","greater than 100g",2447
+"34","Australia","1g or less",20
+"35","Australia","1g to 10g",58
+"36","Australia","10g to 100g",201
+"37","Australia","greater than 100g",361
+"38","Europe","1g or less",3
+"39","Europe","1g to 10g",12
+"40","Europe","10g to 100g",35
+"41","Europe","greater than 100g",507
+"42","North America","1g or less",11
+"43","North America","1g to 10g",127
+"44","North America","10g to 100g",296
+"45","North America","greater than 100g",1269
+"46","South America","1g to 10g",20
+"47","South America","10g to 100g",180
+"48","South America","greater than 100g",433

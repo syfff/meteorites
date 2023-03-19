@@ -1,0 +1,123 @@
+"","country","iso3","continent","cnt"
+"1","Antarctica","ATA","Antarctica",22086
+"2","Oman","OMN","Asia",2992
+"3","United States of America","USA","North America",1643
+"4","Libya","LBY","Africa",1466
+"5","Algeria","DZA","Africa",659
+"6","Australia","AUS","Australia",630
+"7","Chile","CHL","South America",402
+"8","Kenya","KEN","Africa",227
+"9","Morocco","MAR","Africa",171
+"10","India","IND","Asia",131
+"11","Russia","RUS","Europe",130
+"12","Mexico","MEX","South America",94
+"13","China","CHN","Asia",85
+"14","France","FRA","Europe",69
+"15","Argentina","ARG","South America",65
+"16","Canada","CAN","North America",60
+"17","Brazil","BRA","South America",55
+"18","Japan","JPN","Asia",53
+"19",NA,NA,NA,48
+"20","Germany","DEU","Europe",47
+"21","Egypt","EGY","Africa",44
+"22","Tunisia","TUN","Africa",43
+"23","South Africa","ZAF","Africa",42
+"24","Ukraine","UKR","Europe",39
+"25","Niger","NER","Africa",34
+"26","Italy","ITA","Europe",33
+"27","Saudi Arabia","SAU","Asia",27
+"28","United Arab Emirates","ARE","Asia",27
+"29","Spain","ESP","Europe",26
+"30","Czech Republic","CZE","Europe",24
+"31","United Kingdom","GBR","Europe",22
+"32","Indonesia","IDN","Asia",18
+"33","Nigeria","NGA","Africa",18
+"34","Namibia","NAM","Africa",17
+"35","Poland","POL","Europe",17
+"36","Kazakhstan","KAZ","Asia",15
+"37","Pakistan","PAK","Asia",15
+"38","Mauritania","MRT","Africa",14
+"39","Sweden","SWE","Europe",13
+"40","Turkey","TUR","Europe",12
+"41","Finland","FIN","Europe",11
+"42","Norway","NOR","Europe",11
+"43","Romania","ROU","Europe",10
+"44","Mongolia","MNG","Asia",9
+"45","United Republic of Tanzania","TZA","Africa",9
+"46","Bangladesh","BGD","Asia",8
+"47","Hungary","HUN","Europe",8
+"48","Mali","MLI","Africa",8
+"49","New Zealand","NZL","Australia",8
+"50","Switzerland","CHE","Europe",8
+"51","Burkina Faso","BFA","Africa",7
+"52","Ethiopia","ETH","Africa",7
+"53","Slovakia","SVK","Europe",7
+"54","Sudan","SDN","Africa",7
+"55","Austria","AUT","Europe",6
+"56","Malawi","MWI","Africa",6
+"57","Turkmenistan","TKM","Asia",6
+"58","Uganda","UGA","Africa",6
+"59","Western Sahara","ESH","Africa",6
+"60","Belarus","BLR","Europe",5
+"61","Belgium","BEL","Europe",5
+"62","Bulgaria","BGR","Europe",5
+"63","Denmark","DNK","Europe",5
+"64","Portugal","PRT","Europe",5
+"65","Republic of Serbia","SRB","Europe",5
+"66","Botswana","BWA","Africa",4
+"67","Democratic Republic of the Congo","COD","Africa",4
+"68","Estonia","EST","Europe",4
+"69","Ireland","IRL","Europe",4
+"70","Lithuania","LTU","Europe",4
+"71","Philippines","PHL","Asia",4
+"72","Angola","AGO","Africa",3
+"73","Bolivia","BOL","South America",3
+"74","Cameroon","CMR","Africa",3
+"75","Croatia","HRV","Europe",3
+"76","Iran","IRN","Asia",3
+"77","Latvia","LVA","Europe",3
+"78","Myanmar","MMR","Asia",3
+"79","Netherlands","NLD","Europe",3
+"80","Slovenia","SVN","Europe",3
+"81","South Sudan","SSD","Africa",3
+"82","Thailand","THA","Asia",3
+"83","Venezuela","VEN","South America",3
+"84","Vietnam","VNM","Asia",3
+"85","Yemen","YEM","Asia",3
+"86","Zimbabwe","ZWE","Africa",3
+"87","Armenia","ARM","Europe",2
+"88","Azerbaijan","AZE","Europe",2
+"89","Bosnia and Herzegovina","BIH","Europe",2
+"90","Cambodia","KHM","Asia",2
+"91","Chad","TCD","Africa",2
+"92","Colombia","COL","South America",2
+"93","Greenland","GRL","Europe",2
+"94","Iraq","IRQ","Asia",2
+"95","Peru","PER","South America",2
+"96","Somalia","SOM","Africa",2
+"97","South Korea","KOR","Asia",2
+"98","Uzbekistan","UZB","Asia",2
+"99","Afghanistan","AFG","Asia",1
+"100","Central African Republic","CAF","Africa",1
+"101","Costa Rica","CRI","South America",1
+"102","Cuba","CUB","South America",1
+"103","Ecuador","ECU","South America",1
+"104","Ghana","GHA","Africa",1
+"105","Greece","GRC","Europe",1
+"106","Guatemala","GTM","South America",1
+"107","Honduras","HND","South America",1
+"108","Israel","ISR","Europe",1
+"109","Jamaica","JAM","South America",1
+"110","Jordan","JOR","Asia",1
+"111","Laos","LAO","Asia",1
+"112","Lesotho","LSO","Africa",1
+"113","Madagascar","MDG","Africa",1
+"114","New Caledonia","NCL","Australia",1
+"115","North Korea","PRK","Asia",1
+"116","Papua New Guinea","PNG","Australia",1
+"117","Qatar","QAT","Asia",1
+"118","Rwanda","RWA","Africa",1
+"119","Sri Lanka","LKA","Asia",1
+"120","Swaziland","SWZ","Africa",1
+"121","Syria","SYR","Asia",1
+"122","Uruguay","URY","South America",1
